@@ -12,7 +12,7 @@ Bienvenidos a mi página de Github! Soy Agustin y actualmente me encuentro en la
 
 
 #### 🌱 Cosas en las que estoy trabajando actualmente: 
-- Terminar mi curso de web development en Henry🚀
+- Terminar mi curso de Desarrollador Web en Henry🚀
 - Tomar cursos en línea sobre Data Science e idioma (Inglés)🚀
 
 
