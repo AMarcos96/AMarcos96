@@ -11,16 +11,19 @@ Bienvenidos a mi página de Github! Soy Agustin y actualmente me encuentro en la
 
 
 
-#### 🌱 Cosas en las que estoy trabajando actualmente: 
+#### 🌱 Metas personales: 
+
+- Hacer ejercicio 5 días a la semana :muscle:
+- Asistir al Gimnasio 4 dias a la semana :punch:
+- Levantarse más temprano para aprovechar bien el día :clock6:
+- Estudiar al menos 3 libros al mes :books:
+- Mejorar mi CV con algo de educación (no solo en programación) :page_facing_up:
+
+#### :muscle: Metas profesionales:
 - Terminar mi curso de Desarrollador Web en Henry🚀
 - Tomar cursos en línea sobre Data Science e idioma (Inglés)🚀
-
-
-#### :muscle: Cosas con las que me estoy desafiando:
-- Levantarse más temprano para aprovechar bien el día
-- Codificación al menos 4 horas al día
-- Hacer ejercicio al menos 4 días a la semana
-- Mejorar mi CV con algo de educación (no solo en programación)
+- Codificación al menos 4 horas al día :computer:
+- Ampliar mi stack personal de tecnologías :zap:
 
 #### :computer: Lenguajes y herramientas de programación: 
 <p>
