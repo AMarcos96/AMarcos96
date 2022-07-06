@@ -52,7 +52,7 @@ Bienvenidos a mi página de Github! Soy Agustin y actualmente me encuentro en la
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
 
-<br/>
+<br/> <hr/>
 
 <h1 align="center" >Proyectos</h1>
 <div align="center">
