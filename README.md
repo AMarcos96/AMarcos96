@@ -59,17 +59,19 @@ Bienvenidos a mi página de Github! Soy Agustin y actualmente me encuentro en la
 <a href="https://e-commerce-pf.vercel.app/" target="_blank" rel="nofollow"><img src="./images/pf.png" alt="ProyectoG" width="400px"></a>
 </div>
   
-  <div>
   <h3 align="left">📊GitHub Stats:</h3>
 
-    <p align="left">
-    </br>
-    </p>
-    <p align="left" ">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=AMarcos96&show_icons=true&locale=en&layout=compact&theme=merko" alt="AMarcos96" /></p>
-    </br>
-    </br>
-    <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AMarcos96&layout=compact&theme=merko" alt="AMarcos96" /></p>
-  </div>
+<p align="left">
+</br>
+</p>
+<p align="left" ">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=AMarcos96&show_icons=true&locale=en&layout=compact&theme=merko" alt="AMarcos96" /></p>
+</br>
+</br>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AMarcos96&layout=compact&theme=merko" alt="AMarcos96" /></p>
+</br>
+</br>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AMarcos96&show_icons=true&theme=merko&locale=en&layout=compact" alt="AMarcos96" /></p>
+</br>
   
 
 
