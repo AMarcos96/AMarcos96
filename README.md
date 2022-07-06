@@ -24,6 +24,7 @@ Bienvenidos a mi página de Github! Soy Agustin y actualmente me encuentro en la
 - Tomar cursos en línea sobre Data Science e idioma (Inglés)🚀
 - Codificación al menos 4 horas al día :computer:
 - Ampliar mi stack personal de tecnologías :zap:
+<hr/> <br/>
 
 #### :computer: Lenguajes y herramientas de programación: 
 
