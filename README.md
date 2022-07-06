@@ -58,7 +58,7 @@ Bienvenidos a mi página de Github! Soy Agustin y actualmente me encuentro en la
 <div align="center">
 <a href="https://e-commerce-pf.vercel.app/" target="_blank" rel="nofollow"><img src="./images/pf.png" alt="ProyectoG" width="400px"></a>
 </div>
-  
+  <hr/><br/>
   <h3 align="left">📊GitHub Stats:</h3>
 
 <p align="left">
