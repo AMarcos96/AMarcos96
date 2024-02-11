@@ -20,7 +20,6 @@ Bienvenidos a mi página de Github! Soy Agustin y actualmente me encuentro en la
 - Mejorar mi CV con algo de educación (no solo en programación) :page_facing_up:
 
 #### :muscle: Metas profesionales:
-- Terminar mi curso de Desarrollador Web en Henry🚀
 - Tomar cursos en línea sobre Data Science e idioma (Inglés)🚀
 - Codificación al menos 4 horas al día :computer:
 - Ampliar mi stack personal de tecnologías :zap:
